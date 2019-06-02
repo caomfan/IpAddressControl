@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpAddressControlDemo", "IpAddressControlDemo\IpAddressControlDemo.csproj", "{11ACA703-6BBE-4171-A3BF-3C657022607F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpAddressControl", "IpAddressControl\IpAddressControl.csproj", "{63B37498-3E06-4C60-8AC8-A5759DE4A106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11ACA703-6BBE-4171-A3BF-3C657022607F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ACA703-6BBE-4171-A3BF-3C657022607F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ACA703-6BBE-4171-A3BF-3C657022607F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ACA703-6BBE-4171-A3BF-3C657022607F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B37498-3E06-4C60-8AC8-A5759DE4A106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B37498-3E06-4C60-8AC8-A5759DE4A106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B37498-3E06-4C60-8AC8-A5759DE4A106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B37498-3E06-4C60-8AC8-A5759DE4A106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBFC3E5A-6BF8-4D1D-B21B-CA51E1AFBCFC}
+	EndGlobalSection
+EndGlobal
