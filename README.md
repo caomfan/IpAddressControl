@@ -1,10 +1,7 @@
 # IpAddressControl
 WPF IpAddressControl
 
-##
 
-IpAddressControl依赖于.Net Framework 4.6.1
-如果你需要更低的依赖，你需要更改.Net Framework及部分代码，重新编译。
 
 # IpAddressControl 使用
 IpAddressControl使用需要绑定IpAddressViewModel类
